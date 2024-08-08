@@ -23,3 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 public/vite.svg
+public/Bit.png
+public/Gradient.svg
+public/hori_2Bit.svg
+public/vert_2Bit.svg
