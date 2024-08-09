@@ -15,6 +15,7 @@ const mobileNav = () => {
       mobileNav.style.display = "none";
       document.body.style.overflowY = "auto";
     }
+    console.log(isMobileNavOpen);
   });
 
   mobileLinks.forEach((link) => {
