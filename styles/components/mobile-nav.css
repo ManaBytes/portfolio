@@ -1,6 +1,6 @@
 .mobile-nav {
   position: absolute;
-  border: 1px solid green;
+  /* border: 1px solid green; debug */
   top: 0;
   left: 0;
   z-index: 999;
@@ -15,7 +15,7 @@
 
 .mobile-nav__menu {
   list-style: none;
-  border: 1px solid orangered;
+  /* border: 1px solid orangered; debug */
   padding: 0;
   display: flex;
   flex-direction: column;
